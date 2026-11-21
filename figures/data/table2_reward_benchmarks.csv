@@ -1,0 +1,14 @@
+benchmark,family,evaluand_form,evaluand,domain,judgment_signal,scale
+RewardBench,reward-model,pair-wise,response pair,"chat, safety, reasoning, code/math",chosen-rejected preference,2985
+RM-Bench,reward-model,pair-wise,response pair,"chat, code, math, safety",subtle correctness under style variation,1237
+JudgeBench,reward-model,pair-wise,response pair,"knowledge, reasoning, math, code",objective correctness label,620
+IFBench,reward-model,pair-wise,response pair,instruction following,constraint satisfaction,444
+VerifyBench,reward-model,point-wise,completion,reference-based answer verification,binary correctness against reference,3000
+ProcessBench,reward-model,step-wise,reasoning trace,mathematical reasoning,earliest-error step label,3400
+SummEval,nlg,point-wise,summary,summarization,quality rating,1600
+TopicalChat-USR,nlg,point-wise,response,dialogue,quality rating,360
+QAGS,nlg,point-wise,summary,summarization,factuality label,474
+ROCStories,nlg,point-wise,story,story generation,error score,200
+WritingPrompts,nlg,point-wise,story,story generation,error score,200
+StorySparkQA,nlg,point-wise,QA pair,story QA,expert rating,70
+MSLR-COCHRANE,nlg,point-wise,summary,biomedical summarization,facet rating,102

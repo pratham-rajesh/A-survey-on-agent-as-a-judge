@@ -1,0 +1,6 @@
+setting,judge,metagpt,gpt_pilot,openhands
+black-box,LLM-as-a-Judge,84.15,65.30,60.38
+black-box,Agent-as-a-Judge,88.52,83.88,90.44
+gray-box,LLM-as-a-Judge,68.86,71.85,70.76
+gray-box,Agent-as-a-Judge,92.07,86.61,90.16
+reference,Human majority vote,95.08,93.98,94.26

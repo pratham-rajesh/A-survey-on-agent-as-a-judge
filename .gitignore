@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# course admin files are never part of this repo
+*_PLAN.md
+*rubrics*.docx
+*.xlsx
+SUBMISSION_CHECKLIST.md
+~$*
