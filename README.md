@@ -9,7 +9,7 @@ CMPE 297, Fall 2026, San José State University. A short story on the survey pap
 | Deliverable | Link |
 |---|---|
 | Paper (arXiv) | [arXiv:2611.18067](https://arxiv.org/abs/2611.18067) · [PDF copy in this repo](Paper.pdf) |
-| Medium article | TBD |
+| Medium article | [Who Judges the Judge? A Field Guide to Agent-as-a-Judge](https://medium.com/@pratham.r410/who-judges-the-judge-a-field-guide-to-agent-as-a-judge-9a8a1d2d10a8) |
 | Article source (Markdown) | [article/medium_article.md](article/medium_article.md) |
 | Slides (SlideShare) | TBD |
 | Slides (PDF / PPTX in this repo) | [PDF](slides/agent_as_a_judge.pdf) · [PPTX](slides/agent_as_a_judge.pptx) |
